@@ -143,4 +143,26 @@ h1, h2, h3, p {
   word-wrap: break-word;
 }
 
+body, html {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+.container, .content, .section {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  body { font-size: 14px; }
+  .header, .footer, .content { width: 100%; padding: 5px; }
+}
 
