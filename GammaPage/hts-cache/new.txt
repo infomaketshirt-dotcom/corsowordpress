@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+08:48:04	11147/11147	---MCZ	404	error ('Not%20Found')	text/html	date:Thu,%2004%20Sep%202025%2006:11:24%20GMT	https://capitolo-1-le-4-parole-m-v1gs9o7.gamma.site/robots.txt		(from )
+08:48:04	1234500/1234500	---MCZ	200	added ('OK')	text/html	date:Thu,%2004%20Sep%202025%2006:48:02%20GMT	https://capitolo-1-le-4-parole-m-v1gs9o7.gamma.site/	C:/Users/Utente/Desktop/GammaPage/capitolo-1-le-4-parole-m-v1gs9o7.gamma.site/index.html	(from )
